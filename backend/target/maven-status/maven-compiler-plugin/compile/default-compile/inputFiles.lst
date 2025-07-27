@@ -1,0 +1,14 @@
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/dto/DashboardStatsDTO.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/controller/CustomerController.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/repository/TransactionRepository.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/StoreManagementApplication.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/service/BackupService.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/dto/TransactionDTO.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/model/Transaction.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/service/CustomerService.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/model/Customer.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/controller/TransactionController.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/controller/BackupController.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/service/TransactionService.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/dto/CustomerDTO.java
+/Users/manav.shah/Downloads/store-management-system/backend/src/main/java/com/store/management/repository/CustomerRepository.java
